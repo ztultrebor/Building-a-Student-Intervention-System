@@ -1,5 +1,5 @@
 #Building a Student Intervention System
-Udacity Machine Learning Engineer Nanodegree Project 1
+Udacity Machine Learning Engineer Nanodegree Project 2
 
 Investigated the factors that affect a student's performance in high school. 
 Trained and tested several supervised machine learning models on a given 
